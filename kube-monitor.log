@@ -1,0 +1,95 @@
+[INFO]2017/12/13 11:53:58 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/testchina" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/13 11:53:58 F:/mygo/src/demo/autoset/autoset.go:36: "confd/testchina.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/13 11:54:26 F:/mygo/src/demo/demo.go:70: "/wifi/kube-system/testchina" has been deleted,begin to delete nginx config file
+[INFO]2017/12/13 11:54:26 F:/mygo/src/demo/autoset/autoset.go:41: "confd/testchina.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/13 11:54:26 F:/mygo/src/demo/autoset/autoset.go:92: nginx confd file has been delete%!(EXTRA string=confd/testchina.kube-system.conf)
+[INFO]2017/12/14 10:55:43 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/testchina" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/14 10:55:43 F:/mygo/src/demo/autoset/autoset.go:36: "confd/testchina.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/14 10:55:43 F:/mygo/src/demo/autoset/autoset.go:48: template: no template "projectname" associated with template "service.conf"
+[INFO]2017/12/14 11:09:33 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/testchina" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/14 11:09:33 F:/mygo/src/demo/autoset/autoset.go:43: "confd/testchina.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/14 11:12:42 F:/mygo/src/demo/test.go:24: this is new output
+[ERROR]2017/12/14 11:12:42 F:/mygo/src/demo/test.go:25: this is new error log
+[INFO]2017/12/14 11:12:50 F:/mygo/src/demo/test.go:24: this is new output
+[ERROR]2017/12/14 11:12:50 F:/mygo/src/demo/test.go:25: this is new error log
+[INFO]2017/12/14 11:15:41 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/testchina" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/14 11:15:41 F:/mygo/src/demo/autoset/autoset.go:43: "confd/testchina.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/14 11:15:41 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/testchina" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/14 11:15:41 F:/mygo/src/demo/autoset/autoset.go:48: "confd/testchina.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/14 14:20:34 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/testchina" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/14 14:20:34 F:/mygo/src/demo/autoset/autoset.go:48: "confd/testchina.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/14 14:20:34 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/testchina" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/14 14:20:34 F:/mygo/src/demo/autoset/autoset.go:48: "confd/testchina.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/14 14:20:49 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/testchina" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/14 14:20:49 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/testchina" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/14 14:20:49 F:/mygo/src/demo/autoset/autoset.go:43: "confd/testchina.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/14 14:20:49 F:/mygo/src/demo/autoset/autoset.go:43: "confd/testchina.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/14 14:22:09 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/14 14:22:09 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/14 14:22:09 F:/mygo/src/demo/autoset/autoset.go:43: "confd/reportjt-service.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/14 14:22:09 F:/mygo/src/demo/autoset/autoset.go:43: "confd/reportjt-service.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/14 14:25:05 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/14 14:25:05 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/14 14:25:05 F:/mygo/src/demo/autoset/autoset.go:43: "confd/reportjt-service.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/14 14:25:05 F:/mygo/src/demo/autoset/autoset.go:43: "confd/reportjt-service.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/14 14:25:05 F:/mygo/src/demo/autoset/autoset.go:78: log temlpate failed,err is "template: service.conf:4: function \"projectname\" not defined"
+[INFO]2017/12/14 14:25:05 F:/mygo/src/demo/autoset/autoset.go:78: log temlpate failed,err is "template: service.conf:4: function \"projectname\" not defined"
+[INFO]2017/12/14 14:25:33 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/14 14:25:33 F:/mygo/src/demo/autoset/autoset.go:43: "confd/reportjt-service.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/14 14:32:50 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/14 14:32:50 F:/mygo/src/demo/autoset/autoset.go:43: "confd/reportjt-service.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/14 14:34:05 F:/mygo/src/demo/demo.go:70: "/wifi/kube-system/reportjt-service" has been deleted,begin to delete nginx config file
+[INFO]2017/12/14 14:34:05 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/14 14:34:05 F:/mygo/src/demo/autoset/autoset.go:100: nginx confd file has been delete 
+%!(EXTRA string=confd/reportjt-service.kube-system.conf)
+[INFO]2017/12/14 14:34:17 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/14 14:34:17 F:/mygo/src/demo/autoset/autoset.go:43: "confd/reportjt-service.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/18 16:47:12 F:/mygo/src/demo/demo.go:63: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/18 16:47:12 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/18 18:43:41 F:/mygo/src/demo/test.go:125: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/18 18:43:41 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/18 18:44:23 F:/mygo/src/demo/test.go:132: "/wifi/kube-system/reportjt-service" has been deleted,begin to delete nginx config file
+[INFO]2017/12/18 18:44:23 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/18 18:44:23 F:/mygo/src/demo/autoset/autoset.go:100: nginx confd file has been delete 
+%!(EXTRA string=confd/reportjt-service.kube-system.conf)
+[INFO]2017/12/18 18:44:52 F:/mygo/src/demo/test.go:125: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/18 18:44:52 F:/mygo/src/demo/autoset/autoset.go:43: "confd/reportjt-service.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/19 10:36:47 F:/mygo/src/demo/test.go:125: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/19 10:36:47 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/20 15:25:25 F:/mygo/src/demo/test.go:125: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/20 15:25:25 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/20 17:31:39 F:/mygo/src/demo/test.go:132: "/wifi/kube-system/reportjt-service" has been deleted,begin to delete nginx config file
+[INFO]2017/12/20 17:31:40 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/20 17:31:40 F:/mygo/src/demo/autoset/autoset.go:55: remove confd//wifi/kube-system/reportjt-service.conf: The system cannot find the path specified.
+[INFO]2017/12/20 17:34:52 F:/mygo/src/demo/test.go:125: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/20 17:34:52 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/20 17:34:59 F:/mygo/src/demo/test.go:132: "/wifi/kube-system/reportjt-service" has been deleted,begin to delete nginx config file
+[INFO]2017/12/20 17:34:59 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/20 17:34:59 F:/mygo/src/demo/autoset/autoset.go:100: nginx confd file has been delete 
+%!(EXTRA string=confd/reportjt-service.kube-system.conf)
+[INFO]2017/12/20 17:35:12 F:/mygo/src/demo/test.go:125: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/20 17:35:12 F:/mygo/src/demo/autoset/autoset.go:43: "confd/reportjt-service.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/20 17:39:48 F:/mygo/src/demo/test.go:125: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/20 17:39:48 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/20 17:40:00 F:/mygo/src/demo/test.go:133: "/wifi/kube-system/reportjt-service" has been deleted,begin to delete nginx config file
+[INFO]2017/12/20 17:40:00 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/20 17:40:00 F:/mygo/src/demo/autoset/autoset.go:100: nginx confd file has been delete 
+%!(EXTRA string=confd/reportjt-service.kube-system.conf)
+[INFO]2017/12/20 17:40:11 F:/mygo/src/demo/test.go:125: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/20 17:40:11 F:/mygo/src/demo/autoset/autoset.go:43: "confd/reportjt-service.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/21 11:26:52 F:/mygo/src/demo/etcdclient/etcdclient.go:61: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/21 11:26:52 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/21 11:27:19 F:/mygo/src/demo/etcdclient/etcdclient.go:69: "/wifi/kube-system/reportjt-service" has been deleted,begin to delete nginx config file
+[INFO]2017/12/21 11:27:19 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/21 11:27:19 F:/mygo/src/demo/autoset/autoset.go:100: nginx confd file has been delete 
+%!(EXTRA string=confd/reportjt-service.kube-system.conf)
+[INFO]2017/12/21 11:27:28 F:/mygo/src/demo/etcdclient/etcdclient.go:61: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/21 11:27:28 F:/mygo/src/demo/autoset/autoset.go:43: "confd/reportjt-service.kube-system.conf" file not exits,begin create nginx confd file
+[INFO]2017/12/21 11:32:11 F:/mygo/src/demo/etcdclient/etcdclient.go:61: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/21 11:32:11 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/21 11:35:50 F:/mygo/src/demo/etcdclient/etcdclient.go:63: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/21 11:35:50 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/21 11:42:39 F:/mygo/src/demo/etcdclient/etcdclient.go:83: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/21 11:42:39 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
+[INFO]2017/12/21 11:46:11 F:/mygo/src/demo/etcdclient/etcdclient.go:64: "/wifi/kube-system/reportjt-service" has change or create,begin to monitor nginx conffig file 
+[INFO]2017/12/21 11:46:11 F:/mygo/src/demo/autoset/autoset.go:48: "confd/reportjt-service.kube-system.conf" file is exits,continue minitor 
